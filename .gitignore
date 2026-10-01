@@ -34,3 +34,6 @@ htmlcov/
 .idea/
 .DS_Store
 Thumbs.db
+
+
+accounts/migrations/0*.py
